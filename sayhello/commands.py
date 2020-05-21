@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#自定义 flask 命令
 import click
 
 from sayhello import app, db

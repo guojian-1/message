@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#错误处理
 from flask import render_template
 
 from sayhello import app

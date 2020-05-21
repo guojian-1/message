@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+# 视图函数
 from flask import flash, redirect, url_for, render_template
 
 from sayhello import app, db

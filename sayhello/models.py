@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-
+#数据库模型
 from datetime import datetime
 
 from sayhello import db

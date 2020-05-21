@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-
+# 构造文件，包含程序实例
 
 from flask import Flask
 from flask_bootstrap import Bootstrap
